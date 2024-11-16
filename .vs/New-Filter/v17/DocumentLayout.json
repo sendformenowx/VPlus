@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program Files\\Silkroad_Source\\VPlus_Source_Code\\Filter-Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0C6093-C1FC-4177-B4D6-9299A1E55001}|New-Filter.csproj|d:\\program files\\silkroad_source\\vplus_source_code\\filter-source\\newfilter\\netengine\\agentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0C6093-C1FC-4177-B4D6-9299A1E55001}|New-Filter.csproj|solutionrelative:newfilter\\netengine\\agentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0C6093-C1FC-4177-B4D6-9299A1E55001}|New-Filter.csproj|d:\\program files\\silkroad_source\\vplus_source_code\\filter-source\\newfilter\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0C6093-C1FC-4177-B4D6-9299A1E55001}|New-Filter.csproj|solutionrelative:newfilter\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0C6093-C1FC-4177-B4D6-9299A1E55001}|New-Filter.csproj|d:\\program files\\silkroad_source\\vplus_source_code\\filter-source\\newfilter\\inifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0C6093-C1FC-4177-B4D6-9299A1E55001}|New-Filter.csproj|solutionrelative:newfilter\\inifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Program Files\\Silkroad_Source\\VPlus_Source_Code\\Filter-Source\\NewFilter\\MainMenu.cs",
+              "RelativeDocumentMoniker": "NewFilter\\MainMenu.cs",
+              "ToolTip": "D:\\Program Files\\Silkroad_Source\\VPlus_Source_Code\\Filter-Source\\NewFilter\\MainMenu.cs",
+              "RelativeToolTip": "NewFilter\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:06:20.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgentContext.cs",
+              "DocumentMoniker": "D:\\Program Files\\Silkroad_Source\\VPlus_Source_Code\\Filter-Source\\NewFilter\\NetEngine\\AgentContext.cs",
+              "RelativeDocumentMoniker": "NewFilter\\NetEngine\\AgentContext.cs",
+              "ToolTip": "D:\\Program Files\\Silkroad_Source\\VPlus_Source_Code\\Filter-Source\\NewFilter\\NetEngine\\AgentContext.cs",
+              "RelativeToolTip": "NewFilter\\NetEngine\\AgentContext.cs",
+              "ViewState": "AQIAAMcRAAAAAAAAAAAuwM0RAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:06:20.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "iniFile.cs",
+              "DocumentMoniker": "D:\\Program Files\\Silkroad_Source\\VPlus_Source_Code\\Filter-Source\\NewFilter\\iniFile.cs",
+              "RelativeDocumentMoniker": "NewFilter\\iniFile.cs",
+              "ToolTip": "D:\\Program Files\\Silkroad_Source\\VPlus_Source_Code\\Filter-Source\\NewFilter\\iniFile.cs",
+              "RelativeToolTip": "NewFilter\\iniFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:06:20.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

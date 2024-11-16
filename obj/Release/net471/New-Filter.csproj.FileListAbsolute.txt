@@ -1,0 +1,11 @@
+D:\VENOM\SRC\bin\Release\net471\New Filter.exe.config
+D:\VENOM\SRC\bin\Release\net471\New Filter.exe
+D:\VENOM\SRC\bin\Release\net471\New Filter.pdb
+D:\VENOM\SRC\bin\Release\net471\Dapper.dll
+D:\VENOM\SRC\obj\Release\net471\New-Filter.csproj.AssemblyReference.cache
+D:\VENOM\SRC\obj\Release\net471\New-Filter.csproj.SuggestedBindingRedirects.cache
+D:\VENOM\SRC\obj\Release\net471\New-Filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\VENOM\SRC\obj\Release\net471\New-Filter.csproj.CoreCompileInputs.cache
+D:\VENOM\SRC\obj\Release\net471\New-Filter.csproj.CopyComplete
+D:\VENOM\SRC\obj\Release\net471\New Filter.exe
+D:\VENOM\SRC\obj\Release\net471\New Filter.pdb

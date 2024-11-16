@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sI22hszpM0w=",
+  "success": true,
+  "projectFilePath": "D:\\Program Files\\Silkroad_Source\\VPlus_Source_Code\\Filter-Source\\New-Filter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gado\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Gado\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Gado\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net481\\1.0.3\\microsoft.netframework.referenceassemblies.net481.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
